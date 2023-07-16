@@ -2,7 +2,7 @@
 
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 # 💫 About Me:
-<br>a 20-year-old student of Computer Science enrolled in ESPRIT, located in Tunisia. <br>My primary area of interest lies in the development of frontend and backend systems. 👨‍💻📚👨‍🎓🌐🔙🔚 <br>Apart from my academic pursuits, I find solace in engaging myself in a variety of activities such as listening to music, watching movies and series, and indulging in gaming. 🎧🎶🎵🎥🍿📺🎮🎲
+<br>a 21-year-old student of Computer Science Engineering enrolled in ESPRIT, located in Tunisia. <br>My primary area of interest lies in the development of frontend and backend systems. 👨‍💻📚👨‍🎓🌐🔙🔚 <br>Apart from my academic pursuits, I find solace in engaging myself in a variety of activities such as listening to music, watching movies and series, and indulging in gaming. 🎧🎶🎵🎥🍿📺🎮🎲
 
 
 # 💻 Tech Stack:
